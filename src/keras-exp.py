@@ -2,7 +2,7 @@ import tensorflow as tf
 from tensorflow.python.keras import layers, Sequential
 import numpy as np
 import pandas as pd
-pd.
+
 print(tf.VERSION)
 # print(tf.keras.__version__)
 #
